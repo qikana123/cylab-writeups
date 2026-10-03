@@ -8,7 +8,8 @@ My personal collection of write-ups and solutions for CTF challenges on CyLab.
 
 ### Forensics
 - [Glory of the Garden](./Glory-of-the-Garden.md) - Easy
-
+- [Information](./Information.md) - Easy
+  
 ---
 
 *Updated periodically as I complete more labs.*
