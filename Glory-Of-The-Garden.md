@@ -14,4 +14,4 @@ This challenge provides an image file named `garden.jpg` with the hint: *"This f
 4. Scrolled down to the bottom of the byte dump, where the flag text was appended right after the image payload.
 
 ## Flag
-`academy{more_than_m33ts_th3_e39872b3}`
+academy{more_than_m33ts_the_3y36c4fc727}
